@@ -62,7 +62,7 @@ ul{
 
 /* Showcase */
 #showcase{
-    background-image: url(PAGES/banner1.png);
+    background-image: url(pages/banner1.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 338px;
